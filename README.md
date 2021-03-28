@@ -1,17 +1,15 @@
 # WXYZ-Model
  A 4-state Markov model built in R
 
-AUTHOR: Ian Andrew Cromwell, PhD                                             
+### AUTHOR: Ian Andrew Cromwell, PhD                                             
                                                                                 
-NOTE:    This code is a modified verion of a program written by the              
-           DARTH Working Group. Full attribution follows.                         
+### NOTE:    This code is a modified verion of a program written by the DARTH Working Group. Full attribution follows.                         
                                                                               
-PURPOSE: This code is a deterministic version of the Markov model that is     
-         described on the 'Healthy Uncertainty' R Guide:                     
-         https://healthyuncertainty.github.io/RGuide/Chapter5/          
-         It has been updated to reflect the DARTH method.                 
+### PURPOSE: This code is a deterministic version of the Markov model that is described on the 'Healthy Uncertainty' R Guide: https://healthyuncertainty.github.io/RGuide/Chapter5/          
 
-MORE INFORMATION: http://healthyuncertainty.github.io/WXYZ_Model              
+It has been updated to reflect the DARTH method.                 
+
+### MORE INFORMATION: http://healthyuncertainty.github.io/WXYZ_Model              
 
 ## DARTH ATTRIBUTION:
 
