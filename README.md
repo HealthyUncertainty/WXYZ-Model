@@ -1,24 +1,19 @@
 # WXYZ-Model
  A 4-state Markov model built in R
 
+AUTHOR: Ian Andrew Cromwell, PhD                                             
+                                                                                
+NOTE:    This code is a modified verion of a program written by the              
+           DARTH Working Group. Full attribution follows.                         
+                                                                              
+PURPOSE: This code is a deterministic version of the Markov model that is     
+         described on the 'Healthy Uncertainty' R Guide:                     
+         https://healthyuncertainty.github.io/RGuide/Chapter5/          
+         It has been updated to reflect the DARTH method.                 
 
-##################################################################################
-#                                                                                #
-#  TITLE: The 'WXYZ' model - probabilistic                                       #
-#                                                                                #
-#  AUTHOR: Ian Andrew Cromwell, PhD                                              #
-#                                                                                #
-#  NOTE: This code is a modified verion of a program written by the              #
-#        DARTH Working Group. Full attribution follows.                          #
-#                                                                                #
-#  PURPOSE: This code is a deterministic version of the Markov model that is     #
-#            described on the 'Healthy Uncertainty' R Guide:                     #
-#                 https://healthyuncertainty.github.io/RGuide/Chapter5/          #
-#            It has been updated to reflect the DARTH method.                    #
-#                                                                                #
-#  MORE INFORMATION: http://healthyuncertainty.github.io/WXYZ_Model              #
-#                                                                                #
-##################################################################################
+MORE INFORMATION: http://healthyuncertainty.github.io/WXYZ_Model              
+
+## DARTH ATTRIBUTION:
 
 Developed by the Decision Analysis in R for Technologies in Health (DARTH) workgroup:
 
@@ -65,6 +60,6 @@ Med Decis Making. Online First https://doi.org/10.1177/0272989X19893973
 Copyright 2017, THE HOSPITAL FOR SICK CHILDREN AND THE COLLABORATING INSTITUTIONS. 
 All rights reserved in Canada, the United States and worldwide. Copyright, 
 trademarks, trade names and any and all associated intellectual property are 
-exclusively owned by THE HOSPITAL FOR Sick CHILDREN and the collaborating 
+exclusively owned by THE HOSPITAL FOR SICK CHILDREN and the collaborating 
 institutions. These materials may be used, reproduced, modified, distributed 
 and adapted with proper attribution.
